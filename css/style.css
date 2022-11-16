@@ -540,6 +540,7 @@ button {
 
 .icon-md {
     font-size: 48px !important;
+    margin: 5px;
 }
 
 .icon-lg {
