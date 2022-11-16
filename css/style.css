@@ -647,7 +647,7 @@ a[data-lightbox]:hover img {
     position: absolute;
     left: 15px;
     right: 15px;
-    bottom: 5px;
+    bottom: 0px;
 }
 
 .close-lightbox {
