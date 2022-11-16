@@ -410,11 +410,6 @@ a:hover {
     height: 265px;
 }
 
-.logo_sociaux {
-    width: 48px;
-    height: 48px;
-}
-
 /* ------------------------
 ------------------------
 ------------------------
@@ -544,7 +539,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px !important;
+    font-size: 48px !important;
 }
 
 .icon-lg {
