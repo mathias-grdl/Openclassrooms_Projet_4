@@ -395,8 +395,19 @@ a:hover {
     width: 46%;
 }
 
-.img_wmin100 {
-    min-width: 100%;
+.img_size_logo {
+    width: 100px;
+    height: 100px;
+}
+
+.img_size_logo_nav {
+    width: 217px;
+    height: 40px;
+}
+
+.img_size_galery {
+    width: 270px;
+    height: 270px;
 }
 
 /* ------------------------
@@ -624,7 +635,7 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog img {
-    max-height: 90vh;
+    max-height: 50vh;
     margin: 0 auto;
 }
 
