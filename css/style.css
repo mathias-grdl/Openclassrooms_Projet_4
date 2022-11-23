@@ -1148,8 +1148,8 @@ h4 {
         text-align: center;
     }
 
-    /* .img_size_logo {
-        width: 45px;
-        height: 45px;
-    } */
+    .img_size_logo {
+        width: 70px;
+        height: 70px;
+    }
 }
